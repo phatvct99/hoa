@@ -12,6 +12,7 @@ use App\Models\Brand;
 use App\Models\Cateblog;
 use Illuminate\support\Facades\Redirect;
 use App\Models\Visiter;
+
 session_start();
 
 class HomeController extends Controller
