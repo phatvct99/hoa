@@ -339,6 +339,8 @@ class CheckoutController extends Controller
 
       }  
         
+
+    //   asdasd
     }
     public function update_password(Request $request){
         return view('pages.email.update_password');
